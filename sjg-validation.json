@@ -3,6 +3,6 @@
 "ticker":"SASA",
 "discordId":"809997045631811585",
 "pool-list":"true",
-"poolMetaData":"",
+"poolMetaData":"https://raw.githubusercontent.com/nagamarupanda/panda/main/poolMetaData.json",
 "validation":""
 }
